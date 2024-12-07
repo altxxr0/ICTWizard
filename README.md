@@ -1,4 +1,7 @@
 # ICTWizard
+
+![ICTWizardLogoMain](https://github.com/user-attachments/assets/a34b3a9d-39bd-440d-b59e-001650dac910)
+
 ┌────── Trailer ──────┐
 
 https://youtu.be/P-erSAPGlmM
