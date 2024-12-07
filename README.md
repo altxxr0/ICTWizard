@@ -37,28 +37,28 @@ within the AnswerBox and QuestionBox <!>
 
    ┌── Head Developer ──┐
    
-          Jovohn Faulve
+Jovohn Faulve
           
    └───────────────┘
    
    ┌─ Assistant Developer ─┐
    
-            Mark G. Parais
+Mark G. Parais
             
    └───────────────┘
    
-     ┌─ Q&A Developer(s) ─┐
+┌─ Q&A Developer(s) ─┐
      
-             Adrian Martinez
+Adrian Martinez
              
-             Venjamin Aspa
+Venjamin Aspa
              
-     └──────────────┘
+└──────────────┘
      
 └───── Developers ─────┘
 
-        ┌───────────┐
-           JamStudios Corp
-            ICT-MAWD-111
-        └───────────┘
+┌───────────┐
+JamStudios Corp
+ICT-MAWD-111
+└───────────┘
 
