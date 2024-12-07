@@ -58,7 +58,10 @@ Venjamin Aspa
 └───── Developers ─────┘
 
 ┌───────────┐
+
 JamStudios Corp
+
 ICT-MAWD-111
+
 └───────────┘
 
