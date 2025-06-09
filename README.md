@@ -47,3 +47,9 @@ Drag an **AnswerBox** into the **QuestionBox** to answer the question.
 
 ---
 
+## 🌏 Project Assigned By:
+
+<a href="https://sti.edu" target="_blank">
+  <img src="https://github.com/user-attachments/assets/c571ecfb-257c-453b-b18f-f9ae97ce3b41" width="150">
+</a>
+
