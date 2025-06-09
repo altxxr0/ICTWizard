@@ -18,7 +18,7 @@
 
 ---
 
-## 🧠 How It Works
+## ⚙ How It Works
 
 Drag an **AnswerBox** into the **QuestionBox** to answer the question.
 
