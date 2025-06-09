@@ -45,6 +45,8 @@ Drag an **AnswerBox** into the **QuestionBox** to answer the question.
 - █████ Martinez  
 - ███████ Aspa
 
+<sub><em>For Privacy Reasons First Names will be redacted.</em></sub>
+
 ---
 
 ## 🌏 Project Assigned By:
