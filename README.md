@@ -2,6 +2,11 @@
 
 ![ICTWizard Logo](https://github.com/user-attachments/assets/a34b3a9d-39bd-440d-b59e-001650dac910)
 
+<img alt="GitHub Downloads (all assets, latest release)" src="https://img.shields.io/github/downloads/altxxr0/ICTWizard/latest/total?style=for-the-badge">
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/altxxr0/ICTWizard?style=for-the-badge">
+<img alt="GitHub Release" src="https://img.shields.io/github/v/release/altxxr0/ICTWizard?style=for-the-badge">
+
+
 ---
 
 ## 🎬 Trailer
