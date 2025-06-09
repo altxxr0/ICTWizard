@@ -41,12 +41,3 @@ Drag an **AnswerBox** into the **QuestionBox** to answer the question.
 
 ---
 
-## 🏢 Developed By
-
-**JamStudios Corp**  
-ICT-MAWD-111
-
----
-
-![](https://github.com/user-attachments/assets/42a5e553-b08f-4d96-934d-fd2212bf5be8)  
-![](https://github.com/user-attachments/assets/f31c2041-9e1e-4af9-b241-c99493902b1e)
