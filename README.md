@@ -29,15 +29,15 @@ Drag an **AnswerBox** into the **QuestionBox** to answer the question.
 
 ## 👨‍💻 Developers
 
-### 🧑‍🏫 Head Developer
-- Jovohn Faulve
+### Head Developer
+- ██████ Faulve
 
-### 🧑‍💼 Assistant Developer
-- Mark G. Parais
+### Assistant Developer
+- ████ Parais
 
-### ❓ Q&A Developers
-- Adrian Martinez  
-- Venjamin Aspa
+### Q&A Developers
+- █████ Martinez  
+- ███████ Aspa
 
 ---
 
