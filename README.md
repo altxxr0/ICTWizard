@@ -1,73 +1,52 @@
-# ICTWizard
+# 🎮 ICTWizard
 
-![ICTWizardLogoMain](https://github.com/user-attachments/assets/a34b3a9d-39bd-440d-b59e-001650dac910)
+![ICTWizard Logo](https://github.com/user-attachments/assets/a34b3a9d-39bd-440d-b59e-001650dac910)
 
-┌────── Trailer ──────┐
+---
 
-https://youtu.be/P-erSAPGlmM
+## 🎬 Trailer
 
-└────── Trailer ──────┘
+📺 Watch it here: [https://youtu.be/P-erSAPGlmM](https://youtu.be/P-erSAPGlmM)
 
-< ! > If there is missing sprites RELOAD < ! >
+> ❗ **If sprites are missing, please reload the game.**
 
-┌───────── How it Works ─────────┐
+---
 
-Drag An AnswerBox to the QuestionBox
+## 🧠 How It Works
 
-in order to choose the answer, if wrong
+Drag an **AnswerBox** into the **QuestionBox** to answer the question.
 
-it will deduct (-1) if correct (+1), when you
+- ✅ Correct: **+1 point**
+- ❌ Incorrect: **-1 point**
+- 🔥 **Streak Bonus**:
+  - For each correct answer in a streak, your next score is doubled.
+  - Example:
+    - Streak 1: **+2** if correct, **-2** if incorrect
 
-get a streak you get doubled the points
+> ⚠️ **Important:** Make sure your mouse pointer is inside both the AnswerBox and the QuestionBox when dragging and dropping.
 
-given (ex: streak 1: (+2) if Correct, (-2) if not)
+---
 
-so you need to be very careful on what you
+## 👨‍💻 Developers
 
-choose.
+### 🧑‍🏫 Head Developer
+- Jovohn Faulve
 
-└───────── How it Works ─────────┘
+### 🧑‍💼 Assistant Developer
+- Mark G. Parais
 
-┌─────────────────────────┐
+### ❓ Q&A Developers
+- Adrian Martinez  
+- Venjamin Aspa
 
-<!> Make sure that your Mouse Pointer is 
+---
 
-within the AnswerBox and QuestionBox <!> 
+## 🏢 Developed By
 
-└─────────────────────────┘
-
-┌───── Developers ─────┐
-
-   ┌── Head Developer ──┐
-   
-Jovohn Faulve
-          
-   └───────────────┘
-   
-   ┌─ Assistant Developer ─┐
-   
-Mark G. Parais
-            
-   └───────────────┘
-   
-┌─ Q&A Developer(s) ─┐
-     
-Adrian Martinez
-             
-Venjamin Aspa
-             
-└──────────────┘
-     
-└───── Developers ─────┘
-
-┌───────────┐
-
-JamStudios Corp
-
+**JamStudios Corp**  
 ICT-MAWD-111
 
-└───────────┘
+---
 
-![6741701a2bb717 56718746Processed](https://github.com/user-attachments/assets/42a5e553-b08f-4d96-934d-fd2212bf5be8)
-
-![674539ccf07c51 22884717Processed](https://github.com/user-attachments/assets/f31c2041-9e1e-4af9-b241-c99493902b1e)
+![](https://github.com/user-attachments/assets/42a5e553-b08f-4d96-934d-fd2212bf5be8)  
+![](https://github.com/user-attachments/assets/f31c2041-9e1e-4af9-b241-c99493902b1e)
