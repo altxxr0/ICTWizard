@@ -10,6 +10,9 @@
 
 ---
 
+> 📃 An iLS Requirment for our Media Information Literacy
+<sub> { 1st Quarter | 1st Term } </sub>
+
 ## 🎬 Trailer
 
 📺 Watch it here: [https://youtu.be/P-erSAPGlmM](https://youtu.be/P-erSAPGlmM)
