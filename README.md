@@ -11,7 +11,7 @@
 ---
 
 > 📃 An iLS Requirment for our Media Information Literacy
-<sub> { 1st Quarter | 1st Term } </sub>
+<sub> { 2nd Quarter | 1st Term } </sub>
 
 ## 🎬 Trailer
 
